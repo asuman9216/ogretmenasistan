@@ -1,0 +1,12 @@
+const fs=require('fs'),vm=require('vm'),path=require('path'),assert=require('assert');
+const D=require('C:/Users/ASUMAN/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/docx');
+const code=fs.readFileSync(path.join(__dirname,'../dist/workshop.js'),'utf8');
+const pure=code.slice(code.indexOf('function summary(d)'),code.indexOf('async function download()'));
+const definitions=code.slice(code.indexOf('const tfSections='),code.indexOf('function persist()'));
+const ctx={};vm.createContext(ctx);vm.runInContext(definitions+pure+';globalThis.api={summary,warnings,docOptions}',ctx);
+const d={name:'Akıllı Sınıf',type:'TEKNOFEST',category:'Eğitim Teknolojileri',level:'Ortaokul',teamName:'Deneme Takımı',school:'Deneme Okulu',advisor:'Asuman ATEŞ',captain:'Deneme Kaptanı',teamIntro:'Takım tanıtım metni.',purpose:'Aydınlatma kaynaklı enerji tüketimini izlemek.',problem:'Boş sınıflarda aydınlatma açık kalabilmektedir.',solution:'Sensörlerle öğretmene uyarı sağlanacaktır.',method:'Sensör verileri kaydedilecek ve uyarılar test edilecektir.',prototype:'Henüz prototip tamamlanmadı.',audience:'Ortaokul öğretmenleri ve öğrencileri.',originality:'Yerli yazılım bileşeni tasarlanacaktır.',sustainability:'Okul içinde bakım planlanacaktır.',evaluation:'Uyarı doğruluğu gözlemlerle karşılaştırılacaktır.',findings:'Henüz deney yapılmadı.',conclusion:'Çalışma planlama aşamasındadır.',sources:'Kaynaklar araştırma sürecinde eklenecektir.',strengths:'Okul ihtiyacına odaklanması.',weaknesses:'Prototipin henüz tamamlanmaması.',opportunities:'Öğretmenlerle pilot uygulama.',threats:'Sensör teminindeki gecikmeler.',members:[{name:'Deneme Öğrenci',role:'Yazılım',education:'7. sınıf'}],schedule:[{name:'Prototip',activity:'Sensör kurulumu',start:'2026-11-01',end:'2026-12-01'}]};
+assert.equal(ctx.api.warnings(d).length,0);
+assert(ctx.api.warnings({...d,name:''}).some(x=>x.includes('Proje adı')));
+assert(ctx.api.warnings({...d,schedule:[{start:'2026-12-01',end:'2026-11-01'}]}).some(x=>x.includes('başlangıçtan önce')));
+assert(ctx.api.summary(d).includes(d.purpose));
+(async()=>{const b=await D.Packer.toBuffer(new D.Document(ctx.api.docOptions(d,D)));fs.writeFileSync(path.join(__dirname,'latest-output.docx'),b);console.log('PASS: required fields, date order, generated summary, DOCX serialization');})();

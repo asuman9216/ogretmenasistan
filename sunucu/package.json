@@ -1,0 +1,8 @@
+{
+  "name": "asuman-ates-okul-takip",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Asuman ATEŞ Okul Takip Sistemi ve Gemini proje atölyesi",
+  "engines": {"node": ">=22.0.0"},
+  "scripts": {"start": "node server.cjs", "test": "node --test test/*.test.cjs", "check": "node --check server.cjs && node --check gemini.cjs && node --check public/workshop.js && node --check public/gemini-settings.js"}
+}

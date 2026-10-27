@@ -1,0 +1,61 @@
+Proje Ana Alanı		:
+Proje Tematik Alanı	:
+Proje Adı (Başlığı)	:
+
+Proje raporu yazımında yazı tipi Times New Roman, yazı tipi boyutu ise 12 punto olmalıdır. Proje rapor metnindeki her bir sayfa, sayfanın her yanından 2,5 cm boşluk bırakarak, tek satır aralığı ile iki yana yaslı şekilde düzenlenmelidir.
+Proje başlığı tek bir cümle şeklinde, kısa ve öz olarak, en fazla 15 kelime olacak şekilde, okuyan kişiye proje çalışması hakkında fikir verecek şekilde yazılmalıdır. Bu başlık mutlaka proje içeriğini yansıtacak şekilde olmalıdır.
+Yapay Zeka Araçları Kullanım Beyanı:
+Proje kapsamında, Üretken Yapay Zeka (ÜYZ) araçları kullanıldıysa buna dair aşağıdaki başlıklara açıklama eklenmelidir.
+
+Kullanılan araçlar: ÜYZ aracının adı, versiyonu ve erişim tarihi.
+Örnek: "Gemini, Flash, Eylül 2026"
+
+Kullanım amacı: ÜYZ aracının ne için kullanıldığı.
+Örnek: “İngilizce çeviri, literatür taraması, hesaplama işlemleri vb.”
+
+Kullanım kapsamı: Hangi bölümlerde, ne ölçüde ÜYZ desteği alındığı.
+Örnek: "Yöntem bölümünde literatür taraması amacıyla"
+
+İnsan müdahalesi: ÜYZ çıktısı üzerinde yapılan değişiklikler ve doğrulama.
+Örnek: "ÜYZ çıktılarının %50’si düzenlenmiş, tüm kaynaklar bağımsız olarak doğrulanmıştır"
+
+Özet
+Özetin tamamı 150-250 kelime arasında olmalıdır. Proje özetinde, çalışmanın ayrıntılarından, yorumlardan ve kaynaklardan bahsedilmez. Özette projenin amacı, kullanılan yöntem, yapılan gözlem ve elde edilen temel bulgular ve sonuçlardan birkaç cümle ile bahsedilir. İdeal olan başlarken taslak bir özet oluşturup, çalışma bittiğinde proje raporunun içeriğine uygun bir şekilde özeti güncellemektir.
+
+Anahtar Kelimeler: Proje özetinin altına, proje konusunu genel olarak yansıtan en fazla beş kelimeden oluşan anahtar kelimeler verilmelidir.
+
+Amaç
+Bu bölümde doğrudan projenin amacına, somut hedeflerine ve Ar-Ge içeriğine odaklanılmalıdır. Önerilen proje konusunun çözülmesi gereken ya da önceden çalışılmış aydınlatılması gereken bir problem olup olmadığı, hangi eksikliği nasıl gidereceği veya hangi sorunlara çözüm getireceği açıklanmalıdır. Hazırlanan projenin ilgili olduğu alanlarda uzman kişilere sunulacağı dikkate alınarak değerlendirmeye hiçbir katkı sağlamayacak genel konu ve tarihçe anlatımlarından kaçınılmalıdır.
+
+Giriş
+Giriş, araştırma konusu hakkında yapılmış araştırmaların sonuçlarının ve bu alanda cevapsız olan soruların bilimsel makalelere dayandırılarak anlatıldığı (kaynak taraması) bölümdür.
+
+Yöntem
+Araştırma yönteminin, veri toplama araçlarının, deney ve gözlem düzeneklerinin ve verilerin analiz yönteminin verildiği bölümdür.
+
+Proje İş-Zaman Çizelgesi
+Projenin iş-zaman çizelgesine sahip olması çok önemlidir. İlk haftadan itibaren araştırma projenizin süresi boyunca ulaşmanız gereken hedefleri ve zamanlarını belirten aşağıda sunulan tabloya benzer bir iş-zaman çizelgenizin olması gerekir.
+
+Bulgular
+Çalışmada toplanan veriler ve verilere ait analiz sonuçları verilir.
+
+Sonuç ve Tartışma
+Bu bölümde proje çalışması ile elde edilen bulgular araştırma sorusuna veya problemine uygun olarak yorumlanır.
+
+Öneriler
+Bu bölümde benzer çalışmalar yapacak olanlara yol göstermesi bakımından öneriler varsa belirtilir.
+
+Kaynaklar
+Bu bölümde, proje sürecinde yararlanılan ve proje raporu içerisinde atıf yapılan tüm kaynaklar listelenir. Kaynaklar APA yazım kuralları ve kaynak gösterme biçimine göre listelenir.
+
+Ekler
+Varsa konuyu dağıtacağı düşünülen veya çok uzun metinlerden oluşan, çeşitli araştırma bulgularına dayalı çok uzun tablolar, formüller, ayrıntılı deney verileri, bilgisayar programları, anketler vb. EKLER bölümünde verilebilir. Araştırmayı yapmak için alınan yasal izinler, yazışmalar, gerekirse e-posta örnekleri de burada verilmelidir. Eklerin her biri için uygun bir başlık seçilerek metin içerisinde geçiş sıralarına göre "Ek 1., Ek 2..." şeklinde, ayrı bir sayfadan başlayacak şekilde yer almalıdır.
+Eklerin proje raporunun sayfa sınırı olan 20 sayfaya sığmaması durumunda başvuru sisteminde EK BELGELER kısmına yüklenmesi gerekmektedir. Bu durumda proje raporunda EK BELGELER kısmına dosya yüklendiği belirtilmeli ve eklenen belgeler liste halinde yazılmalıdır.
+NOT: Kırmızı ile yazılı kısımlar bilgi amaçlıdır, proje raporunuzdan bu kısımları silmeniz ve projenize ait metinleri uygun başlık altına siyah renkte yazmanız gerekmektedir.
+TABLE
+İşin Adı | AYLAR | AYLAR | AYLAR | AYLAR | AYLAR | AYLAR | AYLAR | AYLAR | AYLAR | AYLAR
+İşin Adı | NİSAN | MAYIS | HAZİRAN | TEMMUZ | AĞUSTOS | EYLÜL | EKİM | KASIM | ARALIK | OCAK
+Literatür Taraması |  |  |  |  |  |  |  |  |  | 
+Arazi Çalışması |  |  |  |  |  |  |  |  |  | 
+Verilerin Toplanması ve Analizi |  |  |  |  |  |  |  |  |  | 
+Proje Raporu Yazımı |  |  |  |  |  |  |  |  |  | 

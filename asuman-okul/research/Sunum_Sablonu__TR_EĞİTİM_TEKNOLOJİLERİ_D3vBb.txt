@@ -1,0 +1,434 @@
+PAGE 1
+EĞİTİM TEKNOLOJİLERİ YARIŞMASI
+PROJE SUNUMU
+PROJE ADI:
+TAKIM EĞİTİM SEVİYESİ:
+KONUSU:
+TAKIM ADI:
+TAKIM ID:
+BAŞVURU ID:
+*Bu sayfa kapak sayfasıdır. İstenilen bilgiler doğru şekilde girilmelidir. Tüm sayfalarda olduğu gibi sayfa aynı şekilde
+kullanılmalı değişiklik yapılmamalıdır. (Bu açıklama silinmelidir.)
+PAGE 2
+TAKIM TANITIMI
+www.teknofest.org 1
+TAKIM ADI:
+TAKIM ID:
+BAŞVURU ID:
+2025 TEKNOFEST İSTANBUL .......................... KATEGORİSİ PROJE SUNUM ŞABLONU
+Takım şablonundaki kutu sayısı takım üye sayısına göre güncellenmelidir. Şablondaki istenilen bilgiler doldurulmalıdır.
+Takım tanıtımı 
+en  
+fazla  bir(1) sayfadır. Sayfa sınırı aşılmamalıdır. 
+Takım kaptanı bilgilerini ilgili alanda verip tekrar üye olarak yer vermemelisiniz. 
+TAKIM YAPISI
+ÜYE 1         
+TAKIMDAKİ GÖREVİ 
+EĞİTİM BİLGİSİ
+TAKIM DANIŞMANI
+TAKIM KAPTANI
+ÜYE 2         
+TAKIMDAKİ GÖREVİ 
+EĞİTİM BİLGİSİ
+ÜYE 3        
+TAKIMDAKİ GÖREVİ 
+EĞİTİM BİLGİSİ
+ÜYE 
+ 4
+        
+TAKIMDAKİ GÖREVİ 
+EĞİTİM BİLGİSİ
+ÜYE 
+ 5
+         
+TAKIMDAKİ GÖREVİ 
+EĞİTİM BİLGİSİ
+PROTOTİP / UYGULAMA 
+GELİŞTİRME DURUMU
+ÇÖZÜM
+YÖNTEM
+SWOT ANALİZİ
+PROJE TAKVİMİ
+TİCARİLEŞME POTANSİYELİ 
+VE SÜRDÜRÜLEBİLİRLİK
+HEDEF KİTLE
+ÖZGÜNLÜK VE 
+YERLİLİK YÖNÜ
+ÖZET
+TAKIM TANITIM
+PROBLEM TANIMI
+
+PAGE 3
+ÖZET
+TAKIM ADI:
+TAKIM ID:
+BAŞVURU ID: 2
+www.teknofest.org
+• Proje/fikir özet sayfasıdır. 
+• Özet sayfası 
+en  
+fazla  bir(1) sayfada açıklanmalıdır. Sayfa sınırı aşılmamalıdır. 
+• Proje özeti başlığı kapsamında kısa net bir şekilde proje fikri özetlenmeli, çalışma kısaca açıklanmalıdır. 
+• Proje konusu, neden bu projenin seçildiği, özet olarak proje amacı ve kullanılan yöntemden kısaca bahsedilmelidir. 
+• Projenizin; başvurmuş olduğunuz yarışma kategorisinin yarışma şartnamesinde bulunan konu kapsamına 
+uygunluğunu belirtmeniz gerekmektedir.
+Sayfada görsellerden (tablolar, akış diyagramı , infografik vb.) yararlanabilirsiniz.
+ PROTOTİP / UYGULAMA 
+GELİŞTİRME DURUMU
+ÇÖZÜM
+YÖNTEM
+SWOT ANALİZİ
+PROJE TAKVİMİ
+TİCARİLEŞME POTANSİYELİ 
+VE SÜRDÜRÜLEBİLİRLİK
+HEDEF KİTLE
+ÖZGÜNLÜK VE 
+YERLİLİK YÖNÜ
+ÖZET
+TAKIM TANITIM
+PROBLEM TANIMI
+2025 TEKNOFEST İSTANBUL .......................... KATEGORİSİ PROJE SUNUM ŞABLONU
+PAGE 4
+PROBLEM TANIMI
+TAKIM ADI:
+TAKIM ID:
+BAŞVURU ID: 3
+www.teknofest.org
+• Problemin ele alındığı sayfadır.
+• Problem tanımı 
+en
+   
+fazla
+ iki (2) sayfada açıklanmalıdır. Sayfa sınırı aşılmamalıdır. İsteyen takımlar bir (1) sayfada anlatabilir.
+• Literatür taraması yapılmalıdır.
+• Mevcut durum nedir ve bu durumda karşılaşılan problemler nelerdir. Probleme dair literatür araştırması/taraması ile desteklenerek 
+açıklanmalıdır.
+• Literatür taraması sonucu ilgili proje konusunda daha önce yapılmış olan çalışmalardan bahsedilmelidir. 
+Sayfalarda görsellerden (tablolar, akış diyagramı , infografik vb.) yararlanabilirsiniz.
+PROTOTİP / UYGULAMA 
+GELİŞTİRME DURUMU
+ÇÖZÜM
+YÖNTEM
+SWOT ANALİZİ
+PROJE TAKVİMİ
+TİCARİLEŞME POTANSİYELİ 
+VE SÜRDÜRÜLEBİLİRLİK
+HEDEF KİTLE
+ÖZGÜNLÜK VE 
+YERLİLİK YÖNÜ
+ÖZET
+TAKIM TANITIM
+PROBLEM TANIMI
+2025 TEKNOFEST İSTANBUL .......................... KATEGORİSİ PROJE SUNUM ŞABLONU
+PAGE 5
+ÇÖZÜM 
+TAKIM ADI:
+TAKIM ID:
+BAŞVURU ID: 4
+www.teknofest.org
+• Proje/ fikre ait çözümün anlatıldığı sayfadır.
+• Çözüm 
+en  
+fazla (2) sayfada açıklanmalıdır. Sayfa sınırı aşılmamalıdır. İsteyen takımlar bir (1) sayfada anlatabilir.
+• Çözüm fikri, problem ile uyumlu olarak kapsamlı, yenilikçi ve etkili şekilde açıklanmalıdır. 
+• Literatürdeki çözümlerle desteklenmeli ve literatürdeki çözümlerden farkı ifade edilmelidir. 
+• Proje fikrinin açıklanan problem ile ilişkisi kurularak varsa toplumsal faydası bu bölümde açıklanabilir
+Sayfalarda görsellerden (tablolar, akış diyagramı , infografik vb.) yararlanabilirsiniz.
+PROTOTİP / UYGULAMA 
+GELİŞTİRME DURUMU
+ÇÖZÜM
+YÖNTEM
+SWOT ANALİZİ
+PROJE TAKVİMİ
+TİCARİLEŞME POTANSİYELİ 
+VE SÜRDÜRÜLEBİLİRLİK
+HEDEF KİTLE
+ÖZGÜNLÜK VE 
+YERLİLİK YÖNÜ
+ÖZET
+TAKIM TANITIM
+PROBLEM TANIMI
+2025 TEKNOFEST İSTANBUL .......................... KATEGORİSİ PROJE SUNUM ŞABLONU
+PAGE 6
+YÖNTEM 
+TAKIM ADI:
+TAKIM ID:
+BAŞVURU ID: 5
+www.teknofest.org
+• Projedeki verilen fikrin gerçekleştirilmesi için kullanılacak yöntemlerin, ortaya çıkan ürün/projenin anlatıldığı sayfadır.
+• Yöntem 
+en  
+fazla (2) sayfada açıklanmalıdır. Sayfa sınırı aşılmamalıdır. İsteyen takımlar bir (1) sayfada anlatabilir.
+• Problem çözümü için seçilen yöntem, izlenecek metot/deney, kullanılacak teknolojiler, analizler ve kullanılacak 
+malzemelerle desteklenerek açıklanmalıdır.
+Sayfalarda görsellerden (tablolar, akış diyagramı , infografik vb.) yararlanabilirsiniz.
+PROTOTİP / UYGULAMA 
+GELİŞTİRME DURUMU
+ÇÖZÜM
+YÖNTEM
+SWOT ANALİZİ
+PROJE TAKVİMİ
+HEDEF KİTLE
+ÖZGÜNLÜK VE 
+YERLİLİK YÖNÜ
+ÖZET
+TAKIM TANITIM
+PROBLEM TANIMI
+TİCARİLEŞME POTANSİYELİ 
+VE SÜRDÜRÜLEBİLİRLİK
+2025 TEKNOFEST İSTANBUL .......................... KATEGORİSİ PROJE SUNUM ŞABLONU
+PAGE 7
+PROTOTİP/ UYGULAMA GELİŞTİRME 
+DURUMU 
+TAKIM ADI:
+TAKIM ID:
+BAŞVURU ID: 6
+www.teknofest.org
+• Bu bölümde, proje fikrinizin somut bir ürüne dönüşme süreci detaylı bir şekilde açıklanmalıdır. Proje kapsamında prototip
+geliştirilip geliştirilmediği belirtilmeli; varsa prototipe ait görseller, prototip yoksa tasarımsal çalışmanızın görselleri ya da demo
+görselleri sunuma eklenmelidir.
+• Geliştirilen prototipin ne tür bir sistem ya da ürün olduğu açıklanmalı; çözüm önerinizin donanım temelli mi, yazılım temelli mi
+yoksa her ikisini içeren hibrit bir yapı mı olduğu açıkça belirtilmelidir. Prototipin oluşturulmasında kullanılan malzeme, araç,
+yazılım, sensör, sistem bileşenleri gibi teknik detaylar maddeler halinde listelenmelidir.
+• Prototipin geliştirme süreci; tasarım, üretim, kodlama ve test aşamaları şeklinde açıklanmalı, bu aşamalardan hangilerinin
+tamamlandığı belirtilmelidir. Henüz tamamlanmamış olan kısımlar varsa, üzerinde çalışılan alanlar açıklanmalıdır.
+•
+ Prototip/
+ Uygulama
+ Geliştirme
+ Durumu
+ e
+n 
+fazla (1) sayfada açıklanmalıdır
+ PROTOTİP / UYGULAMA 
+GELİŞTİRME DURUMU
+ÇÖZÜM
+YÖNTEM
+SWOT ANALİZİ
+PROJE TAKVİMİ
+TİCARİLEŞME POTANSİYELİ 
+VE SÜRDÜRÜLEBİLİRLİK
+HEDEF KİTLE
+ÖZGÜNLÜK VE 
+YERLİLİK YÖNÜ
+ÖZET
+TAKIM TANITIM
+PROBLEM TANIMI
+2025 TEKNOFEST İSTANBUL .......................... KATEGORİSİ PROJE SUNUM ŞABLONU
+PAGE 8
+TİCARİLEŞME POTANSİYELİ VE 
+SÜRDÜRÜLEBİLİRİLİK
+TAKIM ADI:
+TAKIM ID:
+BAŞVURU ID: 7
+www.teknofest.org
+• Ticarileşme Potansiyeli ve Sürdürülebilirlik 
+en  
+fazla  bir (1) sayfada açıklanmalıdır. Sayfa sınırı aşılmamalıdır. 
+• Ürün/proje hakkında detaylı bilgi içermelidir.
+• Ürün ticarileşme potansiyeline, ileri teknoloji ve katma değerine yer verilmelidir. Projede elde edilen çözüm mevcut şartlarda 
+uygulanabiliyor olmalı ve üretilebilmelidir. Projenin yeni projeler, iş ortaklıkları ve iş birlikleri oluşturma potansiyeline sahip 
+olduğu gösterilmelidir. 
+• Sürdürülebilirlik başlığı için ise projenin başarıyla tamamlanmasının ardından uzun vadede devamlılığının nasıl sağlanacağına 
+açıklanmalıdır. 
+Sayfalarda görsellerden (tablolar, akış diyagramı , infografik vb.) yararlanabilirsiniz.
+PROTOTİP / UYGULAMA 
+GELİŞTİRME DURUMU
+ÇÖZÜM
+YÖNTEM
+SWOT ANALİZİ
+PROJE TAKVİMİ
+TİCARİLEŞME POTANSİYELİ 
+VE SÜRDÜRÜLEBİLİRLİK
+HEDEF KİTLE
+ÖZGÜNLÜK VE 
+YERLİLİK YÖNÜ
+ÖZET
+TAKIM TANITIM
+PROBLEM TANIMI
+2025 TEKNOFEST İSTANBUL .......................... KATEGORİSİ PROJE SUNUM ŞABLONU
+PAGE 9
+ÖZGÜNLÜK VE YERLİLİK YÖNÜ 
+TAKIM ADI:
+TAKIM ID:
+BAŞVURU ID: 8
+www.teknofest.org
+• Özgünlük ve Yerlilik 
+en  
+fazla  bir (1) sayfada açıklanmalıdır. Sayfa sınırı aşılmamalıdır. 
+• Projenizin milli ve yerli özelliklerini ortaya çıkaran unsurlar nelerdir?
+• Projeyi, piyasada bulunan benzer çözümlerden ayıran özellik/özelliklerin neler olduğu açıklanır. 
+• Mevcut çözümlerden farkı bu başlık kapsamında detaylandırılarak ve karşılaştırma yapılarak anlatılmalıdır.
+Sayfalarda görsellerden (tablolar, akış diyagramı , infografik vb.) yararlanabilirsiniz.
+PROTOTİP / UYGULAMA 
+GELİŞTİRME DURUMU
+ÇÖZÜM
+YÖNTEM
+SWOT ANALİZİ
+PROJE TAKVİMİ
+TİCARİLEŞME POTANSİYELİ 
+VE SÜRDÜRÜLEBİLİRLİK
+HEDEF KİTLE
+ÖZGÜNLÜK VE 
+YERLİLİK YÖNÜ
+ÖZET
+TAKIM TANITIM
+PROBLEM TANIMI
+2025 TEKNOFEST İSTANBUL .......................... KATEGORİSİ PROJE SUNUM ŞABLONU
+PAGE 10
+HEDEF KİTLE
+TAKIM ADI:
+TAKIM ID:
+BAŞVURU ID: 9
+www.teknofest.org
+• Hedef kitlenin açıklandığı sayfadır.
+• Hedef kitle 
+en  
+fazla  bir(1) sayfada açıklanmalıdır. Sayfa sınırı aşılmamalıdır. 
+• Hedef kitle geliştirilen projeye/fikre ve yarışma kategorisinin konu kapsamına uygun olmalıdır.
+• Hedef kitle özelleştirilmelidir. Genel ifadelere yer verilmemelidir. (Örn: Herkes, tüm insanlık.. )
+Sayfada görsellerden (tablolar, akış diyagramı , infografik vb.) yararlanabilirsiniz.
+PROTOTİP / UYGULAMA 
+GELİŞTİRME DURUMU
+ÇÖZÜM
+YÖNTEM
+SWOT ANALİZİ
+PROJE TAKVİMİ
+TİCARİLEŞME POTANSİYELİ 
+VE SÜRDÜRÜLEBİLİRLİK
+HEDEF KİTLE
+ÖZGÜNLÜK VE 
+YERLİLİK YÖNÜ
+ÖZET
+TAKIM TANITIM
+PROBLEM TANIMI
+2025 TEKNOFEST İSTANBUL .......................... KATEGORİSİ PROJE SUNUM ŞABLONU
+PAGE 11
+PROJE TAKVİMİ
+TAKIM ADI:
+TAKIM ID:
+BAŞVURU ID: 10
+www.teknofest.org
+İş Paketi No İŞ PAKETİ ADI ALT FAALİYETLER BAŞLANGIÇ TARİHİ BİTİŞ TARİHİ
+1
+2
+3
+4
+5
+6
+7
+Proje kapsamında iş paketleri alt faaliyetleri ile birlikte detaylı, açık belirlenmiş ve gerçekçi olmalıdır. Görsel açıdan anlaşılır 
+ve düzenli bir tablo kullanılmalıdır, örnek tablo yukarıda yer almaktadır. Paylaşılacak bilgiler yalnızca iş paketi detaylarına ve 
+proje içeriğine odaklanmalı ve gerçekçi olmalıdır. 
+Tabloda yer alan iş paketi ve alt faaliyetlerin tanımı;
+• İş Paketi: Bir projede belirli bir hedefe ulaşmak için yapılan, tamamlandığında net bir sonuç ortaya koyan ve genellikle
+belirli bir zaman, bütçe ve kaynakla sınırlı olan bağımsız bir görevler grubudur.
+• Alt Faaliyet: İş paketine bağlı daha küçük, daha detaylı görevler veya aktiviteler olarak tanımlanır. Alt faaliyetler, iş
+paketini tamamlamak için gereken adımların alt kırılımlarıdır ve genellikle daha kısa süreli ve daha spesifik görevlerdir.
+•
+ Proje Takvimi 
+ en  
+fazla  bir (1) sayfada açıklanmalıdır. Sayfa sınırı aşılmamalıdır. 
+PROTOTİP / UYGULAMA 
+GELİŞTİRME DURUMU
+ÇÖZÜM
+YÖNTEM
+SWOT ANALİZİ
+PROJE TAKVİMİ
+TİCARİLEŞME POTANSİYELİ 
+VE SÜRDÜRÜLEBİLİRLİK
+HEDEF KİTLE
+ÖZGÜNLÜK VE 
+YERLİLİK YÖNÜ
+ÖZET
+TAKIM TANITIM
+PROBLEM TANIMI
+2025 TEKNOFEST İSTANBUL .......................... KATEGORİSİ PROJE SUNUM ŞABLONU
+PAGE 12
+SWOT ANALİZİ
+TAKIM ADI:
+TAKIM ID:
+BAŞVURU ID: 11
+www.teknofest.org
+Güçlü Yönler
+ Zayıf  
+Yönler
+ Fırsatlar Tehditler
+Projenizin en iyi yönleri nelerdir? 
+Projeyi başarılı kılan şeyler 
+neler? Hangi özellikleriniz sizi 
+diğerlerinden farklı kılıyor?
+Projemizin daha iyi olabilmesi 
+için hangi yönlerini geliştirmemiz 
+gerekiyor? Eksik veya çalışmayan 
+noktalar neler? Projemiz hangi 
+konularda yetersiz kalıyor?
+Projemizi büyütmek, geliştirmek 
+ve daha iyi hale getirmek için 
+hangi fırsatlar var? Hangi yeni 
+teknolojiler, destekler veya 
+projeyi daha ileriye taşıyacak 
+imkanlar var?
+Projemizi zorlayabilecek veya 
+başarısını engelleyebilecek dış 
+etkenler neler?
+S
+ W
+ O
+ T
+• Bu sayfada swot analizi yapılmalıdır. Swot analizi; Projenin güçlü yönlerinin, zayıf yönlerinin, fırsatların ve tehditlerin anlatıldığı 
+kısımdır. Tablo aynen kullanılmalıdır. Swot analizi 
+en  
+fazla  bir(1) sayfada açıklanmalıdır. Sayfa sınırı aşılmamalıdır. 
+PROTOTİP / UYGULAMA 
+GELİŞTİRME DURUMU
+ÇÖZÜM
+YÖNTEM
+SWOT ANALİZİ
+PROJE TAKVİMİ
+TİCARİLEŞME POTANSİYELİ 
+VE SÜRDÜRÜLEBİLİRLİK
+HEDEF KİTLE
+ÖZGÜNLÜK VE 
+YERLİLİK YÖNÜ
+ÖZET
+TAKIM TANITIM
+PROBLEM TANIMI
+2025 TEKNOFEST İSTANBUL .......................... KATEGORİSİ PROJE SUNUM ŞABLONU
+PAGE 13
+TEŞEKKÜRLER
+TAKIM ADI:
+TAKIM ID:
+BAŞVURU ID: 12
+www.teknofest.org
+• Bu sayfada proje/fikre ait bir sloganla kapanış yapılmalıdır.
+• Sayfa aynen kullanılmalı sadece slogan eklenmelidir. 
+2025 TEKNOFEST İSTANBUL .......................... KATEGORİSİ PROJE SUNUM ŞABLONU
+PAGE 14
+Aşağıda belirtilen kurallar, proje sunum dosyalarının hazırlanması, yüklenmesi ve sunum aşamasıyla ilgili gereklilikleri içermektedir. Takımların, belirlenen kurallara tam uyum 
+sağlaması beklenmektedir.
+1. Genel Şablon Kullanımı
+• Sunum için sağlanan şablon aynen kullanılmalı, herhangi bir format veya sayfa düzeni değişikliği yapılmamalıdır.
+• Konu başlıkları altındaki kırmızı açıklamalar kaldırılmalı ve yerine takımlar kendi açıklamalarını, görsellerini veya içeriklerini eklemelidir.
+• Font tipi ve boyutu serbesttir, ancak toplam sayfa sayısı sınırları aşılmamalıdır.
+2. Sayfa Düzeni ve İçerik Kuralları
+• Sayfa alt kısmında yer alan TAKIM ADI – ID – BAŞVURU ID – YARIŞMA KATEGORİSİ – YARIŞMA SEVİYESİ bilgileri tüm sayfalarda aynı pozisyonda ve formatta olmalıdır.
+• Her başlık altında yalnızca ilgili konu anlatılmalıdır; farklı bir başlığa yönelik içerik eklenmemelidir.
+• Sunum içeriğinde tekrarlayan veya birbirinin aynısı olan ifadeler bulunmamalıdır. Metinler, açık ve anlaşılır bir dille yazılmalıdır.
+• Takım tanıtım sayfasında, takım üyelerinin fotoğrafları isteğe bağlı olarak eklenebilir.
+• Metin ve görsel tasarımı, kapak sayfası, takım tanıtım sayfası, SWOT analizi ve teşekkür sayfası hariçtakımların inisiyatifindedir.
+• Ek görseller eklenecekse, şablonun düzeni bozulmadan ve sayfa sınırı kurallarına uygun şekilde yerleştirilmelidir.
+3. Sayfa ve Dosya Sınırlandırmaları
+• Sunum dosyası, Kapak sayfası dahil toplamda 16 sayfayı geçmemelidir.
+• Her sayfada belirtilen sayfa sınırı aşılmamalıdır. Sayfa sınırının aşılması halinde her fazla sayfa için 3 ceza puanı uygulanacaktır.
+• Toplam sayfa sınırı aşıldığında, sistem dosya yüklemesini kabul etmeyecektir.
+• Sunum dosyası, PDF formatında ve maksimum 75 MB boyutunda olmalıdır. Aksi takdirde sistem yükleme işlemini gerçekleştirmeyecektir.
+4. Sunum Süreci ve Yükleme Kuralları
+• Sisteme yüklenen sunum üzerinden çevrim içi sunum aşaması gerçekleştirilecektir.
+• Belirtilen son yükleme tarihinden sonra sunumda herhangi bir güncelleme yapılamayacaktır.
+• Sunum dosyasında kaynak gösterimi için video veya drive linki eklenmemelidir. Bu tür içerikler incelemeye alınmayacaktır.
+• Proje sunumu yalnızca takım üyeleri tarafından gerçekleştirilecektir. 
+• Sunuma en az bir takım üyesinin katılımı zorunludur. 
+• Sunumlarını KYS sistemi üzerinden belirtilen süre içinde yüklemeyen takımlara randevu planlaması yapılmayacak ve sunum hakkı kaybedilecektir.
+SUNUM HAZIRLAMA KURALLARI
+SUNUMDA BU SAYFAYA YER VERİLMEYECEKTİR!!! (KURALLARA GÖRE HAZIRLANDIKTAN SONRA SİLİNMELİDİR.)
